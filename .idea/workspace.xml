@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="122be79a-cbe6-467f-ab33-a1f0b90abb18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jenkins_demo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/udayc/PycharmProjects/PythonProject2" value="3CWNI6TkWS9aGI595WnECCoPKz7" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jenkins_demo" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;udaychandhar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:heerendrababu/jenkins_demo.git&quot;,
+    &quot;accountId&quot;: &quot;52ed3ae2-eef2-4969-8446-3424a9947d00&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3CWNI6TkWS9aGI595WnECCoPKz7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for UIAutomation.Tests.test_registration.TestRegistration.test_verify_sign_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for practice1.Locator_xpath_file.test_xpathLocator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for practice1.locator_css.test_cssselect_locator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Locator_xpath_file.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Test_registration.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in bliut_in_locators.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in demo.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests in locator_css.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jenkins.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_registration.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests in test_verify_page.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in Test_registration.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_registration.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locator_xpath_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xpath_locator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alart_dilag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bliut_in_locators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath_locator (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath_locator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;uday&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/udayc/PycharmProjects/PythonProject2/Jenkins_PlayWright&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\udayc\PycharmProjects\PythonProject2\Jenkins_PlayWright" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\udayc\PycharmProjects\PythonProject2" />
+      <recent name="C:\Users\udayc\PycharmProjects\PythonProject2\practice1\UIAutomation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice1/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for UIAutomation.Tests.test_registration.TestRegistration.test_verify_sign_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;UIAutomation.Tests.test_registration.TestRegistration.test_verify_sign_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_registration.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="PythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonProject2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-s -v -m window&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/UIAutomation/Tests/test_registration.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python tests.Python tests for UIAutomation.Tests.test_registration.TestRegistration.test_verify_sign_page" />
+      <item itemvalue="Python tests.pytest in test_registration.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python tests.Python tests for UIAutomation.Tests.test_registration.TestRegistration.test_verify_sign_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="122be79a-cbe6-467f-ab33-a1f0b90abb18" name="Changes" comment="" />
+      <created>1776497283011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776497283011</updated>
+      <workItem from="1782291056384" duration="272000" />
+      <workItem from="1782291379378" duration="4000" />
+      <workItem from="1782291418920" duration="1762000" />
+      <workItem from="1782381170298" duration="5112000" />
+      <workItem from="1782888837257" duration="13000" />
+      <workItem from="1783057136249" duration="1561000" />
+      <workItem from="1783070555839" duration="665000" />
+      <workItem from="1783145292644" duration="539000" />
+      <workItem from="1783329359126" duration="1094000" />
+      <workItem from="1783402901005" duration="46000" />
+      <workItem from="1783416624416" duration="598000" />
+      <workItem from="1783489874225" duration="598000" />
+      <workItem from="1783575142364" duration="972000" />
+      <workItem from="1783589804961" duration="361000" />
+      <workItem from="1783665885532" duration="1386000" />
+      <workItem from="1783674341218" duration="599000" />
+      <workItem from="1783749203807" duration="251000" />
+      <workItem from="1784179821888" duration="591000" />
+      <workItem from="1784264940175" duration="815000" />
+      <workItem from="1784614644546" duration="537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Automation" />
+    </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject2$pytest_in_test_registration_py.coverage" NAME="pytest in test_registration.py Coverage Results" MODIFIED="1783058116929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
